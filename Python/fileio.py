@@ -1,0 +1,6 @@
+f=open("write.txt","w")
+f.write("this is maniyadav")
+f.close()
+f=open("write.txt","r")
+text=f.read()
+print(text)

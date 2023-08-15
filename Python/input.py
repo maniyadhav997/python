@@ -1,0 +1,6 @@
+a=input("enter your name :")
+print("your name is ",a)
+print(type(a))
+b=int(a)
+print(b)
+print(type(b))
